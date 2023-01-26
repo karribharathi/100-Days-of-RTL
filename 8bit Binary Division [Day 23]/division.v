@@ -1,31 +1,34 @@
 `timescale 1ns / 1ps
+module division(divisor, dividend, remainder, result);
 
-module division_tb;
+input [7:0] divisor, dividend;
+output reg [7:0] result, remainder;
 
-	reg [7:0] divisor;
-	reg [7:0] dividend;
+integer i;
+reg [7:0] divisor_copy, dividend_copy;
+reg [7:0] temp;
 
-	wire [7:0] remainder;
-	wire [7:0] result;
-
-	division uut (.divisor(divisor),.dividend(dividend),.remainder(remainder),.result(result));
-
-	initial begin
-
-		divisor = 12;
-		dividend = 73;
-		
-		#100;
-		divisor = 3;
-		dividend = 15;
-		
-		#100;
-		divisor = 7;
-		dividend = 47;
+always @(divisor or dividend)
+begin
+	divisor_copy = divisor;
+	dividend_copy = dividend;
+	temp = 0; 
+	for(i = 0;i < 8;i = i + 1)
+	begin
+		temp = {temp[6:0], dividend_copy[7]};
+		dividend_copy[7:1] = dividend_copy[6:0];
+		temp = temp - divisor_copy;
+		if(temp[7] == 1)
+		begin
+			dividend_copy[0] = 0;
+			temp = temp + divisor_copy;
+		end
+		else
+		begin
+			dividend_copy[0] = 1;
+		end
 	end
-      
-	initial begin
-		$monitor("Divisor: %d, Dividend: %d, Remainder: %d, Result: %d\n", divisor, dividend,remainder, result);
-	#300 $finish;
-	end
+	result = dividend_copy;
+	remainder = dividend - (divisor_copy*dividend_copy);
+end
 endmodule
