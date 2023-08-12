@@ -1,0 +1,20 @@
+class thankyou;
+  function new();
+  endfunction
+  
+  function void print_thankyou();
+    $display("THANK YOU\n");
+  endfunction
+  
+endclass
+
+module thankyou_tb();
+  thankyou t1;
+  
+  initial begin
+    t1=new();
+    t1.print_thankyou();
+    $finish();
+  end
+  
+endmodule
