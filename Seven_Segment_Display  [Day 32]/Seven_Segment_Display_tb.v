@@ -12,7 +12,7 @@ endtask
 
 task stimulus;
 begin
-for(i = 0; i < 16; i = i+1) 
+    for(i = 0; i < 16; i = i+2) 
 begin 
     { in } = i;
 #10;
