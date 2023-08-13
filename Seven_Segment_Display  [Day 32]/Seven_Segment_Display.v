@@ -4,9 +4,9 @@ module Seven_Segment_Display( in, segment );
     output [7:0] segment;
     reg [7:0] segment;
 
-always @(bcd)
+         always @(in)
     begin
-        case (bcd) 
+             case (in) 
             4'b0000 : segment = 8'b11000000;      
             4'b0010 : segment = 8'b10100100;      
             4'b0100 : segment = 8'b10011001;     
