@@ -112,6 +112,8 @@ Day 50 : Single Port RAM
 
 Day 51 : TB to print THANK YOU
 
+Day 52 : TB to verify logic data type in SV https://www.edaplayground.com/x/u7KB
+
 
                                                                
 
