@@ -69,7 +69,7 @@ Day 30 : Dual Edge Triggered Flip Flop
 
 Day 31 : Decoder using Demux
 
-Day 32 : Seven Segment Display
+Day 32 : Seven Segment Display to display even numbers
 
 Day 33 : Factorial of a given number
 
