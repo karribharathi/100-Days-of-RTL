@@ -1,4 +1,4 @@
-# 100-Days-of-RTL
+# 100DaysofRTL
 Hello Everyone !
 
 Welcome to My 100daysofrtl
