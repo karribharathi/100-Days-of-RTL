@@ -1,0 +1,16 @@
+# Allocation: Simulator allocated 4747 kB (elbread=455 elab2=4149 kernel=142 sdf=0)
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: ------------------------------------
+# KERNEL: 	min = 6,max = 0
+# KERNEL: 	data = 8
+# KERNEL: ------------------------------------
+# RUNTIME: Warning: RUNTIME_0316 testbench.sv (7): The range [this.min:this.max] is empty as the left-bound is greater than right-bound.
+# KERNEL: Time: 0 ns,  Iteration: 0,  Instance: /constr_not_inside,  Process: @INITIAL#11_0@.
+# KERNEL: 	min = 3,max = 7
+# KERNEL: 	data = 9
+# KERNEL: ------------------------------------
+# KERNEL: 	min = 4,max = 12
+# KERNEL: 	data = 1
+# KERNEL: ------------------------------------
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
