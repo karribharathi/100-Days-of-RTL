@@ -1,0 +1,44 @@
+# KERNEL: value of a =  2 
+# KERNEL: 
+# KERNEL: Prev_occurences = 2
+# KERNEL: value of a =  9 
+# KERNEL: 
+# KERNEL: Prev_occurences = 9 2
+# KERNEL: value of a =  7 
+# KERNEL: 
+# KERNEL: Prev_occurences = 7 9 2
+# KERNEL: value of a =  8 
+# KERNEL: 
+# KERNEL: Prev_occurences = 8 7 9
+# KERNEL: value of a =  1 
+# KERNEL: 
+# KERNEL: Prev_occurences = 1 8 7
+# KERNEL: value of a =  3 
+# KERNEL: 
+# KERNEL: Prev_occurences = 3 1 8
+# KERNEL: value of a = 15 
+# KERNEL: 
+# KERNEL: Prev_occurences = 15 3 1
+# KERNEL: value of a = 12 
+# KERNEL: 
+# KERNEL: Prev_occurences = 12 15 3
+# KERNEL: value of a =  2 
+# KERNEL: 
+# KERNEL: Prev_occurences = 2 12 15
+# KERNEL: value of a =  4 
+# KERNEL: 
+# KERNEL: Prev_occurences = 4 2 12
+# KERNEL: value of a = 10 
+# KERNEL: 
+# KERNEL: Prev_occurences = 10 4 2
+# KERNEL: value of a =  1 
+# KERNEL: 
+# KERNEL: Prev_occurences = 1 10 4
+# KERNEL: value of a = 11 
+# KERNEL: 
+# KERNEL: Prev_occurences = 11 1 10
+# KERNEL: value of a = 15 
+# KERNEL: 
+# KERNEL: Prev_occurences = 15 11 1
+# KERNEL: value of a = 13 
+# KERNEL: 
