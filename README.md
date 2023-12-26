@@ -3,7 +3,7 @@ Hello Everyone !
 
 Welcome to My 100daysofrtl
 
-I am Karry Bharathi,I mostly use Modelsim Software for Simulating the designs and for Synthesis I use Intel Quartus Prime Software.
+I am Karry Bharathi,I mostly use Modelsim Software and EDA Playground for Simulating the designs and for Synthesis I use Intel Quartus Prime Software.
 
 Below are the list of my everyday challenge
 
