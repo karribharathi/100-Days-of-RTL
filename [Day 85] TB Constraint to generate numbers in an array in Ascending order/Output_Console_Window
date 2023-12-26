@@ -1,0 +1,43 @@
+# KERNEL: 	 Index    Value
+# KERNEL: 	 [0]   |   4
+# KERNEL: 	 [1]   |   11
+# KERNEL: 	 [2]   |   16
+# KERNEL: 	 [3]   |   17
+# KERNEL: 	 [4]   |   21
+# KERNEL: 	 Ascending_order array ='{4, 11, 16, 17, 21}
+# KERNEL: 
+# KERNEL: 
+# KERNEL: 	 Index    Value
+# KERNEL: 	 [0]   |   1
+# KERNEL: 	 [1]   |   6
+# KERNEL: 	 [2]   |   7
+# KERNEL: 	 [3]   |   11
+# KERNEL: 	 [4]   |   26
+# KERNEL: 	 Ascending_order array ='{1, 6, 7, 11, 26}
+# KERNEL: 
+# KERNEL: 
+# KERNEL: 	 Index    Value
+# KERNEL: 	 [0]   |   6
+# KERNEL: 	 [1]   |   25
+# KERNEL: 	 [2]   |   26
+# KERNEL: 	 [3]   |   30
+# KERNEL: 	 [4]   |   31
+# KERNEL: 	 Ascending_order array ='{6, 25, 26, 30, 31}
+# KERNEL: 
+# KERNEL: 
+# KERNEL: 	 Index    Value
+# KERNEL: 	 [0]   |   11
+# KERNEL: 	 [1]   |   13
+# KERNEL: 	 [2]   |   14
+# KERNEL: 	 [3]   |   22
+# KERNEL: 	 [4]   |   26
+# KERNEL: 	 Ascending_order array ='{11, 13, 14, 22, 26}
+# KERNEL: 
+# KERNEL: 
+# KERNEL: 	 Index    Value
+# KERNEL: 	 [0]   |   4
+# KERNEL: 	 [1]   |   7
+# KERNEL: 	 [2]   |   16
+# KERNEL: 	 [3]   |   20
+# KERNEL: 	 [4]   |   21
+# KERNEL: 	 Ascending_order array ='{4, 7, 16, 20, 21}
