@@ -110,9 +110,79 @@ Day 50 : Single Port RAM
  
                                                             SYSTEM VERILOG 
 
-Day 51 : TB to print THANK YOU
+Day 51 : TB to print THANK YOU https://www.edaplayground.com/x/J5xK
 
 Day 52 : TB to verify logic data type in SV https://www.edaplayground.com/x/u7KB
+
+Day 53 : TB to verify Strings in Systemverilog https://www.edaplayground.com/x/mjRy
+
+Day 54 : TB to verify Associative array in systemverilog https://www.edaplayground.com/x/LGJ3
+
+Day 55 : TB to verify functions in SV 
+
+Day 56 : TB to verify Tasks in Systemverilog https://www.edaplayground.com/x/MRpG
+
+Day 57 : TB to verify Interface in system verilog https://www.edaplayground.com/x/vWzR
+
+Day 58 : TB Object Assignment and Shallow copy method https://www.edaplayground.com/x/swsT
+
+Day 59 : TB to verify Deep Copy method in SV https://www.edaplayground.com/x/bu6U
+
+Day 60 : TB to verify Inheritance in system verilog https://www.edaplayground.com/x/Sccf
+
+Day 61 : TB to verify Polymorphism in system verilog https://www.edaplayground.com/x/ncMa
+
+Day 62 : TB to verify Static Function and Function Static methods in SV https://www.edaplayground.com/x/98RK
+
+Day 63 : TB to verify Parameterized Class in system verilog https://www.edaplayground.com/x/cEq3
+
+Day 64 : TB Interface to verify Clocking Block in system verilog https://www.edaplayground.com/x/LSa_
+
+Day 65 : TB to verify Randomization in system verilog https://www.edaplayground.com/x/crHx
+
+Day 66 : TB to verify fork_join none in system verilog https://www.edaplayground.com/x/9bXw
+
+Day 67 : TB to verify fork_join method in system verilog https://www.edaplayground.com/x/p_Gh
+
+Day 68 : TB to verify fork_join_any in system verliog https://www.edaplayground.com/x/mnfB
+
+Day 69 : TB to verify Events in system verilog https://www.edaplayground.com/x/MU7S
+
+Day 70 : TB to verify Mailbox in system verilog https://www.edaplayground.com/x/Zc4N
+
+Day 71 : TB to verify Semaphore in system verilog https://www.edaplayground.com/x/m2QY
+
+Day 72 : TB to verify wait_fork in system verilog https://www.edaplayground.com/x/M_zY
+
+Day 73 : TB to verify Automatic Variables in system verilog https://www.edaplayground.com/x/nUY9
+
+Day 74 : TB to verify D Flipflop using system verilog https://www.edaplayground.com/x/UD4E
+
+Day 75 : TB to verify T flipflop using system verilog https://www.edaplayground.com/x/k79y
+
+Day 76 : TB to verify Full Adder using system verilog https://www.edaplayground.com/x/DKky
+
+Day 77 : TB to verify 8:1 Multiplexer using system verilog https://www.edaplayground.com/x/MVpt
+
+Day 78 : TB to verify 1:8 Demultiplexer using system verilog https://www.edaplayground.com/x/Nvxu
+
+Day 79 : TB to verify 4:2 Priority Encoder using system verilog https://www.edaplayground.com/x/9rdz
+
+Day 80 : TB to verify 4:16 Decoder using system verilog https://www.edaplayground.com/x/6u_h
+
+Day 81 : TB Constraint to generate numbers inside a given range https://www.edaplayground.com/x/it6z
+
+Day 82 : TB Constraint to generate numbers not inside the given range https://www.edaplayground.com/x/VS2K
+
+Day 83 : TB Constraint to generate even numbers in odd locations and odd numbers in even locations in an Array https://www.edaplayground.com/x/96H4
+
+Day 84 : TB Constraint to generate a number that is not in the previous 3 occurrences https://www.edaplayground.com/x/hpmP
+
+Day 85 : TB Constraint to generate number in an array in Ascending order https://www.edaplayground.com/x/APnR
+
+
+
+
 
 
                                                                
