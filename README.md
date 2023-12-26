@@ -118,7 +118,7 @@ Day 53 : TB to verify Strings in Systemverilog https://www.edaplayground.com/x/m
 
 Day 54 : TB to verify Associative array in systemverilog https://www.edaplayground.com/x/LGJ3
 
-Day 55 : TB to verify functions in SV 
+Day 55 : TB to verify functions in SV https://www.edaplayground.com/x/iXRw
 
 Day 56 : TB to verify Tasks in Systemverilog https://www.edaplayground.com/x/MRpG
 
