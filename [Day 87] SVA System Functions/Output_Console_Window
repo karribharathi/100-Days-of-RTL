@@ -1,0 +1,17 @@
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5702 kB (elbread=427 elab2=5140 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# ASSERT: Error: ASRT_0005 testbench.sv(36): Assertion "a_2" FAILED at time: 5ns, scope: system_function, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(37): Assertion "a_3" FAILED at time: 5ns, scope: system_function, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(35): Assertion "a_1" FAILED at time: 15ns, scope: system_function, start-time: 15ns
+# ASSERT: Error: ASRT_0005 testbench.sv(36): Assertion "a_2" FAILED at time: 15ns, scope: system_function, start-time: 15ns
+# ASSERT: Error: ASRT_0005 testbench.sv(38): Assertion "a_4" FAILED at time: 15ns, scope: system_function, start-time: 15ns
+# ASSERT: Error: ASRT_0005 testbench.sv(35): Assertion "a_1" FAILED at time: 35ns, scope: system_function, start-time: 35ns
+# ASSERT: Error: ASRT_0005 testbench.sv(36): Assertion "a_2" FAILED at time: 35ns, scope: system_function, start-time: 35ns
+# ASSERT: Error: ASRT_0005 testbench.sv(38): Assertion "a_4" FAILED at time: 35ns, scope: system_function, start-time: 35ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (15): $finish called.
+# KERNEL: Time: 65 ns,  Iteration: 0,  Instance: /system_function,  Process: @INITIAL#7_1@.
+# KERNEL: stopped at time: 65 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
