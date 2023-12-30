@@ -1,0 +1,5 @@
+
+# ASSERT: Error: ASRT_0005 testbench.sv(28): Assertion "a_1" FAILED at time: 25ns, scope: impli_aser, start-time: 15ns
+# ASSERT: Error: ASRT_0005 testbench.sv(28): Assertion "a_1" FAILED at time: 45ns, scope: impli_aser, start-time: 35ns
+
+# ASSERT: Error: ASRT_0005 testbench.sv(29): Assertion "a_2" FAILED at time: 45ns, scope: impli_aser, start-time: 35ns
