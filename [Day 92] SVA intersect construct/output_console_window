@@ -1,0 +1,3 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_2" FAILED at time: 5ns, scope: intersect_construct, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_2" FAILED at time: 65ns, scope: intersect_construct, start-time: 65ns
+# ASSERT: Error: ASRT_0005 testbench.sv(39): Assertion "a_1" FAILED at time: 95ns, scope: intersect_construct, start-time: 65ns
