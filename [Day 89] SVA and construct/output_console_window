@@ -1,3 +1,0 @@
-# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 55ns, scope: and_construct, start-time: 45ns
-# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 85ns, scope: and_construct, start-time: 65ns
-# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 115ns, scope: and_construct, start-time: 105ns
