@@ -1,0 +1,5 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(47): Assertion "a_2" FAILED at time: 35ns, scope: repetition_operators, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(47): Assertion "a_2" FAILED at time: 95ns, scope: repetition_operators, start-time: 65ns
+# ASSERT: Error: ASRT_0005 testbench.sv(46): Assertion "a_1" FAILED at time: 115ns, scope: repetition_operators, start-time: 65ns
+# ASSERT: Error: ASRT_0005 testbench.sv(47): Assertion "a_2" FAILED at time: 155ns, scope: repetition_operators, start-time: 125ns
+# ASSERT: Error: ASRT_0005 testbench.sv(48): Assertion "a_3" FAILED at time: 155ns, scope: repetition_operators, start-time: 65ns
