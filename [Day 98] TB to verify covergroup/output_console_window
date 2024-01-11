@@ -1,0 +1,9 @@
+# KERNEL: [40] a=0 b=1
+# KERNEL: [80] a=1 b=3
+# KERNEL: [120] a=1 b=5
+# KERNEL: [160] a=1 b=2
+# KERNEL: [200] a=1 b=5
+# KERNEL: [240] a=2 b=5
+# KERNEL: [280] a=1 b=4
+# KERNEL: [320] a=1 b=6
+# KERNEL: Coverage = 75.00 %
