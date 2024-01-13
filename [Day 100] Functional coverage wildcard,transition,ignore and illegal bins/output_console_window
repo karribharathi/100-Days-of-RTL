@@ -1,0 +1,145 @@
+# KERNEL: e=1 f=1 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #0 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=0 g=1
+# KERNEL: e=0 f=2 g=1
+# KERNEL: e=3 f=0 g=3
+# KERNEL: e=0 f=3 g=1
+# KERNEL: e=0 f=3 g=1
+# KERNEL: e=3 f=1 g=1
+# KERNEL: e=0 f=4 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #7 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=0 g=1
+# KERNEL: e=0 f=3 g=1
+# KERNEL: e=3 f=5 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #10 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=7 g=1
+# KERNEL: e=3 f=3 g=1
+# KERNEL: e=0 f=3 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #13 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=6 g=1
+# KERNEL: e=2 f=1 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #15 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=1 g=1
+# KERNEL: e=1 f=2 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #17 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=1 g=1
+# KERNEL: e=3 f=5 g=3
+# KERNEL: e=0 f=4 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #20 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=3 g=3
+# KERNEL: e=3 f=4 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #22 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=3 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #23 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=2 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #24 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=1 g=1
+# KERNEL: e=2 f=7 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #26 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=7 g=1
+# KERNEL: e=1 f=3 g=1
+# KERNEL: e=3 f=1 g=1
+# KERNEL: e=3 f=0 g=3
+# KERNEL: e=0 f=2 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #31 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=0 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #32 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=0 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #33 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=2 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #34 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=7 g=1
+# KERNEL: e=0 f=5 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #36 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=4 g=3
+# KERNEL: e=0 f=3 g=1
+# KERNEL: e=2 f=4 g=3
+# KERNEL: e=3 f=2 g=3
+# KERNEL: e=2 f=5 g=1
+# KERNEL: e=0 f=0 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #42 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=3 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #43 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=7 g=1
+# KERNEL: e=2 f=3 g=3
+# KERNEL: e=1 f=0 g=3
+# KERNEL: e=0 f=2 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #47 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=2 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #48 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=7 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #49 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=4 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #50 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=2 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #51 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=0 g=1
+# KERNEL: e=2 f=6 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #53 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=6 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #54 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=2 g=1
+# KERNEL: e=3 f=2 g=3
+# KERNEL: e=1 f=5 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #57 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=1 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #58 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=3 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #59 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=7 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #60 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=2 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #61 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=2 g=3
+# KERNEL: e=3 f=4 g=1
+# KERNEL: e=0 f=1 g=1
+# KERNEL: e=2 f=3 g=3
+# KERNEL: e=1 f=6 g=3
+# KERNEL: e=1 f=6 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #67 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=7 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #68 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=5 g=1
+# KERNEL: e=3 f=4 g=1
+# KERNEL: e=2 f=6 g=1
+# KERNEL: e=3 f=0 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #72 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=3 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #73 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=7 g=3
+# KERNEL: e=0 f=3 g=3
+# KERNEL: e=3 f=6 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #76 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=1 f=5 g=3
+# KERNEL: e=0 f=7 g=3
+# KERNEL: e=2 f=7 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #79 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=6 g=3
+# KERNEL: e=0 f=2 g=1
+# KERNEL: e=2 f=2 g=1
+# KERNEL: e=2 f=4 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #83 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=5 g=3
+# KERNEL: e=2 f=4 g=1
+# KERNEL: e=0 f=5 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #86 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=0 f=3 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #87 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=0 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #88 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=2 f=2 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #89 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=5 g=3
+# KERNEL: e=1 f=7 g=1
+# KERNEL: e=0 f=4 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #92 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=7 g=2
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '2' at iteration #93 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: e=3 f=3 g=1
+# KERNEL: e=1 f=6 g=1
+# KERNEL: e=0 f=7 g=3
+# KERNEL: e=2 f=4 g=3
+# KERNEL: e=0 f=1 g=1
+# KERNEL: e=3 f=6 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (42): Illegal bin 'g4' was hit with value '0' at iteration #99 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_3", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: Coverage of cg_1 = 100.00 % Coverage of cg_2 = 87.50 % Coverage of cg_3 = 0.00 % 
